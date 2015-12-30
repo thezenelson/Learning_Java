@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class list{
+public class toDoList{
 	static ArrayList<item> list = new ArrayList<item>();
 
 	public static void clear(){
